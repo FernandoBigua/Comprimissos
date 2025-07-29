@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Fiscalização SED - Compromissos</title>
+</head>
+
+<body>
+  <div id="cabecalhoImpressao" class="cabecalho-impressao">
+    <div class="logo-e-texto">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bras%C3%A3o_de_Santa_Catarina.svg/640px-Bras%C3%A3o_de_Santa_Catarina.svg.png"
+        alt="Brasão de Santa Catarina">
+      <div class="texto-institucional">
+        <p>ESTADO DE SANTA CATARINA</p>
+        <p>SECRETARIA DE ESTADO DA EDUCAÇÃO</p>
+        <p>GERÊNCIA DE ADMINISTRAÇÃO ESCOLAR - GEADE</p>
+      </div>
+    </div>
+    <div class="info-filtros">
+      <p id="infoCompromisso"></p>
+      <p id="infoResponsabilidade"></p>
+    </div>
+  </div>
+
+  <div class="box">
+    <form id="formulario">
+      <fieldset>
+        <header>
+          <h1>
+            <img src="https://th.bing.com/th/id/OIP.dWxa3kO3rzOI3FOII20j2AHaG_?w=208&h=197&c=7&r=0&o=5&pid=1.7"
+              alt="Brasão de SC" style="height: 40px; vertical-align: middle; margin-right: 10px;border-radius: 10px;">
+            FISCALIZAÇÃO SED
+          </h1>
+        </header>
+        <main>
+          <h2 class="piscando">Compromissos SED</h2>
+
+
+
+          <div class="filtros-e-imprimir">
+            <div class="filtros">
+              <div class="filtro-grupo">
+                <label for="filtroResponsabilidade">Filtrar por Responsabilidade:</label>
+                <select name="filtroResponsabilidade" id="filtroResponsabilidade" required>
+                  <option value="" disabled selected>Selecione uma Responsabilidade</option>
+                  <option value="Estado">Estado</option>
+                  <option value="Terceirizada">Terceirizada</option>
+                </select>
+              </div>
+
+              
+              <div class="filtro-grupo">
+                <label for="filtroCompromisso">Filtrar por Compromisso:</label>
+                <select name="filtroCompromisso" id="filtroCompromisso">
+                  <option value="" disabled selected>-- Todos os Compromissos --</option>
+                </select>
+              </div>
+
+
+            </div>
+            <button type="button" id="botaoImprimir" style="display:none;" onclick="imprimirComDelay()">
+              <span class="fas fa-print"></span> Imprimir Tabela
+            </button>
+
+          </div>
+
+          <div class="tabela-container">
+            <table id="compromissosTable">
+              <thead>
+                <tr>
+                  <th>Compromisso</th>
+                  <th>Responsabilidade</th>
+                  <th>Item</th>
+                  <th>Descrição</th>
+                  <th>Prazo</th>
+                </tr>
+              </thead>
+              <tbody>
+              </tbody>
+            </table>
+          </div>
+        </main>
+      </fieldset>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
