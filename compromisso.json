@@ -2,98 +2,98 @@
   {
     "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": 1.1,
+    "ITEM": "1.1",
     "DESCRIÇÃO": "Cardápio está exposto em local visível no refeitório (por faixa etária e com parâmetros nutricionais)",
     "PRAZO": "IMEDIATO"
   },
   {
     "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": 1.2,
+    "ITEM": "1.2",
     "DESCRIÇÃO": "Cardápios para alunos NAE está exposto em local visível no refeitório (com parâmetros nutricionais)",
     "PRAZO": "IMEDIATO"
   },
   {
     "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": 1.3,
+    "ITEM": "1.3",
     "DESCRIÇÃO": "Presença de Carômetro em local visível",
     "PRAZO": "IMEDIATO"
   },
   {
     "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 1.4,
+    "ITEM": "1.4",
     "DESCRIÇÃO": "Cumprimento do cardápio da SED/GEADE",
     "PRAZO": "IMEDIATO"
   },
   {
     "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 1.5,
+    "ITEM": "1.5",
     "DESCRIÇÃO": "Presença das fichas técnicas das preparações do cardápio em local acessível",
     "PRAZO": "5 DIAS"
   },
   {
     "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 1.6,
+    "ITEM": "1.6",
     "DESCRIÇÃO": "Presença das quantidades per capita das preparações do cardápio em local visível",
     "PRAZO": "IMEDIATO"
   },
   {
     "COMPROMISSO": "1 CARDÁPIO",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 1.7,
+    "ITEM": "1.7",
     "DESCRIÇÃO": "Oferecem aos escolares a qualidade e quantidade (per capita) dos alimentos preparados de acordo com o contrato vigente",
     "PRAZO": "IMEDIATO"
   },
   {
     "COMPROMISSO": "2 REFEITÓRIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": 2.1,
+    "ITEM": "2.1",
     "DESCRIÇÃO": "Próximo às dependências da cozinha",
     "PRAZO": "1 ANO"
   },
   {
     "COMPROMISSO": "2 REFEITÓRIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": 2.2,
+    "ITEM": "2.2",
     "DESCRIÇÃO": "Espaço adequado para o número de alunos por turno",
     "PRAZO": "1 ANO"
   },
   {
     "COMPROMISSO": "2 REFEITÓRIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": 2.3,
+    "ITEM": "2.3",
     "DESCRIÇÃO": "Mesas e Assentos em quantidades adequadas por turno",
     "PRAZO": "1 ANO"
   },
   {
     "COMPROMISSO": "2 REFEITÓRIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": 2.4,
+    "ITEM": "2.4",
     "DESCRIÇÃO": "Mesas e Assentos limpos e em bom estado de conservação",
     "PRAZO": "IMEDIATO"
   },
   {
     "COMPROMISSO": "2 REFEITÓRIO",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 2.5,
+    "ITEM": "2.5",
     "DESCRIÇÃO": "Presença de balcão térmico para distribuição das refeições",
     "PRAZO": "5 DIAS"
   },
   {
     "COMPROMISSO": "2 REFEITÓRIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": 2.6,
+    "ITEM": "2.6",
     "DESCRIÇÃO": "Balcão térmico para distribuição das refeições ligado à rede elétrica",
     "PRAZO": "3 MESES"
   },
   {
     "COMPROMISSO": "2 REFEITÓRIO",
     "RESPONSABILIDADE": "Estado",
-    "ITEM": 2.7,
+    "ITEM": "2.7",
     "DESCRIÇÃO": "Ausência de animais no refeitório",
     "PRAZO": "IMEDIATO"
   },
@@ -205,49 +205,49 @@
   {
     "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 4.1,
+    "ITEM": "4.1",
     "DESCRIÇÃO": "Os manipuladores possuem Atestado de Saúde Ocupacional (ASO) atualizado e o mesmo encontra-se disponível na cozinha da unidade escolar",
     "PRAZO": "48 HORAS"
   },
   {
     "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 4.2,
+    "ITEM": "4.2",
     "DESCRIÇÃO": "Os manipuladores possuem registro de capacitação em higiene pessoal, manipulação higiênica de alimentos e em doenças transmitidas por alimentos atualizado, e o certificado está disponível na cozinha da unidade escolar",
     "PRAZO": "15 DIAS"
   },
   {
     "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 4.3,
+    "ITEM": "4.3",
     "DESCRIÇÃO": "Utilizam uniformes compatíveis com a atividade, conservados e limpos, com uso exclusivo nas dependências internas (calça comprida, camiseta, avental brancos, sapato de segurança e toucas descartáveis)",
     "PRAZO": "72 HORAS"
   },
   {
     "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 4.4,
+    "ITEM": "4.4",
     "DESCRIÇÃO": "Asseio pessoal: mãos limpas, unhas curtas, sem esmalte, sem adornos (anéis, pulseiras, brincos, etc), maquiagem e perfume. Cabelos presos, protegidos por toucas e ausência de barba",
     "PRAZO": "24 HORAS"
   },
   {
     "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 4.5,
+    "ITEM": "4.5",
     "DESCRIÇÃO": "Número adequado de cozinheiras fixas, cardápio Parcial (1 a cada 80 refeições servidas)",
     "PRAZO": "24 HORAS"
   },
   {
     "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 4.6,
+    "ITEM": "4.6",
     "DESCRIÇÃO": "Número adequado de cozinheiras fixas, cardápio Integral I e II (2 até 80 refeições servidas)",
     "PRAZO": "24 HORAS"
   },
   {
     "COMPROMISSO": "4 MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 4.7,
+    "ITEM": "4.7",
     "DESCRIÇÃO": "Existe local específico (armário) para guardar roupas e objetos pessoais",
     "PRAZO": "30 DIAS"
   },
@@ -392,7 +392,7 @@
     "PRAZO": "90 DIAS"
   },
   {
-    "COMPROMISSO": "5.7 EDIFICAÇÃO E INSTALAÇÕES: CONTROLE INTEGRADO DE\n VETORES E PRAGAS URBANAS",
+    "COMPROMISSO": "5.7 EDIFICAÇÃO E INSTALAÇÕES: CONTROLE INTEGRADO DE VETORES E PRAGAS URBANAS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "5.7.1",
     "DESCRIÇÃO": "Ausência de vetores e pragas urbanas (insetos e roedores) e/ou qualquer evidência de sua presença como fezes, ninhos e outros.",
@@ -471,89 +471,89 @@
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 6.1,
+    "ITEM": "6.1",
     "DESCRIÇÃO": "Equipamentos, móveis e utensílios em bom estado de conservação e higiene",
     "PRAZO": "30 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 6.2,
+    "ITEM": "6.2",
     "DESCRIÇÃO": "Móveis e equipamentos em quantidade suficiente",
     "PRAZO": "30 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 6.3,
+    "ITEM": "6.3",
     "DESCRIÇÃO": "Utensílios (garfo, colher, faca, panelas, entre outros) em quantidade suficiente",
     "PRAZO": "10 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 6.4,
+    "ITEM": "6.4",
     "DESCRIÇÃO": "Caneca de vidro temperado, transparente, incolor, que comporte no mínimo 250ml, em quantidade suficiente",
     "PRAZO": "10 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 6.5,
+    "ITEM": "6.5",
     "DESCRIÇÃO": "Prato de vidro, fundo e raso, transparente e incolor, em quantidade suficiente",
     "PRAZO": "10 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 6.6,
+    "ITEM": "6.6",
     "DESCRIÇÃO": "Presença e utilização de termômetro",
     "PRAZO": "15 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 6.7,
+    "ITEM": "6.7",
     "DESCRIÇÃO": "Presença de balança funcionando",
     "PRAZO": "15 DIAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
-    "ITEM": 6.8,
+    "ITEM": "6.8",
     "DESCRIÇÃO": "Utilização de pano descartável (tipo perflex)",
     "PRAZO": "24 HORAS"
   },
   {
     "COMPROMISSO": "6 EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Estado/Terc",
-    "ITEM": 6.9,
+    "ITEM": "6.9",
     "DESCRIÇÃO": "Utilização de bandejas para servimento (em casos de aceitação pela unidade)",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "7.1 DOCUMENTAÇÃO E REGISTRO: MANUAL DE BOAS PRÁTICAS E \nPROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs)",
+    "COMPROMISSO": "7.1 DOCUMENTAÇÃO E REGISTRO: MANUAL DE BOAS PRÁTICAS E PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs)",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "7.1.1",
     "DESCRIÇÃO": "Dispõe de Manual de Boas Práticas e de Procedimentos Operacionais Padronizados atualizados e disponíveis.",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "7.1 DOCUMENTAÇÃO E REGISTRO: MANUAL DE BOAS PRÁTICAS E \nPROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs)",
+    "COMPROMISSO": "7.1 DOCUMENTAÇÃO E REGISTRO: MANUAL DE BOAS PRÁTICAS E PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs)",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "7.1.2",
     "DESCRIÇÃO": "Presença de Alvará Sanitário da Unidade Escolar exposto e atualizado.",
     "PRAZO": "6 MESES"
   },
   {
-    "COMPROMISSO": "7.1 DOCUMENTAÇÃO E REGISTRO: MANUAL DE BOAS PRÁTICAS E \nPROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs)",
+    "COMPROMISSO": "7.1 DOCUMENTAÇÃO E REGISTRO: MANUAL DE BOAS PRÁTICAS E PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs)",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "7.1.3",
     "DESCRIÇÃO": "Esses documentos estão acessíveis para consulta",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "8.1 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDAS INSTALAÇÕES, EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
+    "COMPROMISSO": "8.1 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO DAS INSTALAÇÕES, EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "8.1.1",
     "DESCRIÇÃO": "Existência de POP estabelecido e sendo cumprido",
@@ -570,7 +570,7 @@
     "COMPROMISSO": "8.2 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): CONTROLE \nINTEGRADO DE VETORES E PRAGAS URBANAS",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "8.2.3",
-    "DESCRIÇÃO": "Certificado de desinsetização e desratização da cozinha vigente\n(semestral)",
+    "DESCRIÇÃO": "Certificado de desinsetização e desratização da cozinha vigente(semestral)",
     "PRAZO": "15 DIAS"
   },
   {
@@ -581,42 +581,42 @@
     "PRAZO": "15 DIAS"
   },
   {
-    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO DO RESERVATÓRIO ",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "8.3.1",
     "DESCRIÇÃO": "Existência de POP estabelecido e sendo cumprido",
     "PRAZO": "24 HORAS"
   },
   {
-    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO DO RESERVATÓRIO ",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "8.3.3",
     "DESCRIÇÃO": "Certificado de higienização do reservatório de água da unidade escolar (semestral)",
     "PRAZO": "15 DIAS"
   },
   {
-    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO DO RESERVATÓRIO ",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "8.3.4",
-    "DESCRIÇÃO": "Certificado de higienização do reservatório de água da cozinha (semestral)\n*Caso o reservatório seja de uso exclusivo da cozinha, é responsabilidade da terceirizada.",
+    "DESCRIÇÃO": "Certificado de higienização do reservatório de água da cozinha (semestral)*Caso o reservatório seja de uso exclusivo da cozinha, é responsabilidade da terceirizada.",
     "PRAZO": "15 DIAS"
   },
   {
-    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO DO RESERVATÓRIO ",
     "RESPONSABILIDADE": "Estado",
     "ITEM": "8.3.5",
-    "DESCRIÇÃO": "Certificado de higienização da caixa de gordura da unidade escolar\n(semestral)",
+    "DESCRIÇÃO": "Certificado de higienização da caixa de gordura da unidade escolar(semestral)",
     "PRAZO": "15 DIAS"
   },
   {
-    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO \nDO RESERVATÓRIO",
+    "COMPROMISSO": "8.3 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENIZAÇÃO DO RESERVATÓRIO ",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "8.3.6",
     "DESCRIÇÃO": "Certificado de higienização da caixa de gordura da cozinha (semestral), *Caso o reservatório seja de uso exclusivo da cozinha, é responsabilidade da terceirizada.",
     "PRAZO": "15 DIAS"
   },
   {
-    "COMPROMISSO": "8.4 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENE E \nSAÚDE DOS MANIPULADORES",
+    "COMPROMISSO": "8.4 PROCEDIMENTOS OPERACIONAIS PADRONIZADOS (POPs): HIGIENE E SAÚDE DOS MANIPULADORES",
     "RESPONSABILIDADE": "Terceirizada",
     "ITEM": "8.4.1",
     "DESCRIÇÃO": "Existência de POP estabelecido e sendo cumprido",
