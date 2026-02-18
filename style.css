@@ -239,6 +239,26 @@ button:hover {
     background-color: rgba(255, 255, 255, 0.1); /* Efeito hover sutil */
 }
 
+/* --- Estilos para Cabeçalhos de Compromisso --- */
+#compromissosTable tbody tr.compromisso-header {
+    background-color: #1a5490; /* Azul mais escuro para o cabeçalho de compromisso */
+    font-weight: bold;
+    color: white;
+    font-size: 0.95em;
+    padding: 15px;
+    border-top: 2px solid #0d3a63;
+    border-bottom: 2px solid #0d3a63;
+}
+
+#compromissosTable tbody tr.compromisso-header:hover {
+    background-color: #1f6bb8; /* Um tom mais claro ao passar o mouse */
+}
+
+#compromissosTable tbody tr.compromisso-header td {
+    padding: 15px;
+    color: white;
+}
+
 /* --- Responsividade (Media Queries) --- */
 @media (max-width: 768px) {
     .box {
@@ -342,6 +362,19 @@ button:hover {
     color: #000 !important;
   }
 
+  #compromissosTable tbody tr.compromisso-header {
+    background: #d3d3d3 !important;
+    color: #000 !important;
+    font-weight: bold;
+  }
+
+  #compromissosTable tbody tr.compromisso-header td {
+    background: #d3d3d3 !important;
+    color: #000 !important;
+    font-weight: bold;
+    border: 2px solid #000;
+  }
+
   #compromissosTable thead {
     display: table-header-group;
   }
@@ -399,13 +432,6 @@ button:hover {
   h1,
   .piscando {
     display: none !important;
-  }
-
-  #compromissosTable th:nth-child(1),
-  #compromissosTable th:nth-child(2),
-  #compromissosTable td:nth-child(1),
-  #compromissosTable td:nth-child(2) {
-    display: none !important; /* Oculta COMPROMISSO e RESPONSABILIDADE */
   }
 }
 
